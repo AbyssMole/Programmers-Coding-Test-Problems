@@ -1,4 +1,4 @@
-package com.abyssmole.programmerscodingtestproblems
+package com.abyssmole.programmerscodingtestproblems.LV_0
 
 /*
 * 정수 리스트 num_list가 주어집니다.

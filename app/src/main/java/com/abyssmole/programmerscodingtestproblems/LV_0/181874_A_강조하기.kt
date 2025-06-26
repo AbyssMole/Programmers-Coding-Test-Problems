@@ -1,4 +1,4 @@
-package com.abyssmole.programmerscodingtestproblems
+package com.abyssmole.programmerscodingtestproblems.LV_0
 
 /*
 * 문자열 myString이 주어집니다. myString에서 알파벳 "a"가 등장하면 전부 "A"로 변환하고,

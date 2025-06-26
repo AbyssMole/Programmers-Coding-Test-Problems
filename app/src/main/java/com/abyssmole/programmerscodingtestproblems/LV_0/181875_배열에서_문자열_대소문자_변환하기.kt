@@ -1,4 +1,4 @@
-package com.abyssmole.programmerscodingtestproblems
+package com.abyssmole.programmerscodingtestproblems.LV_0
 
 /*
 * 문자열 배열 strArr가 주어집니다. 모든 원소가 알파벳으로만 이루어져 있을 때,

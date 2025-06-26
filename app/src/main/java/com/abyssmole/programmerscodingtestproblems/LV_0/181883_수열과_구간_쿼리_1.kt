@@ -1,4 +1,4 @@
-package com.abyssmole.programmerscodingtestproblems
+package com.abyssmole.programmerscodingtestproblems.LV_0
 
 /*
 * 정수 배열 arr와 2차원 정수 배열 queries이 주어집니다. queries의 원소는 각각 하나의 query를 나타내며, [s, e] 꼴입니다.
