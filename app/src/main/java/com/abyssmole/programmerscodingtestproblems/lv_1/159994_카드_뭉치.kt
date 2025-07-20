@@ -13,7 +13,7 @@ fun main() {
 
     for(word in goal) {
         if(cards1.contains(word)) {
-            if(cards1.indexOf(word) >= count1) {
+            if(cards1.indexOf(word) - count1 <= 1) {
                 count1 = cards1.indexOf(word)
             } else {
                 answer = "NO"
@@ -22,7 +22,7 @@ fun main() {
         }
 
         if(cards2.contains(word)) {
-            if(cards2.indexOf(word) >= count2) {
+            if(cards2.indexOf(word) - count2 <= 1) {
                 count2 = cards2.indexOf(word)
             } else {
                 answer = "NO"
